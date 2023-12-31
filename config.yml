@@ -1,0 +1,5 @@
+table: v0
+sleep: 3
+sleep_retry: 2
+database: sixeyes
+clientId: 601a8ea4f2149f089782814f
